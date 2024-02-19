@@ -2,7 +2,6 @@
 This is for KDD'24-submission:
 > Dual-Channel Multiplex Graph Neural Networks for Recommendation
 
-
 ## Dependencies
 Recent versions of the following packages for Python 3 are required:
 * numpy==1.21.2
