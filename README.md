@@ -16,9 +16,9 @@ Recent versions of the following packages for Python 3 are required:
 All of the datasets we use are publicly available datasets.
 ### Link
 The used datasets are available at:
-* Retail_Rocket  https://tianchi.aliyun.com/competition/entrance/231719/information/
-* Tmall  https://tianchi.aliyun.com/dataset/dataDetail?dataId=649
-* Yelp  https://www.yelp.com/dataset/download
+* Retail_Rocket https://tianchi.aliyun.com/competition/entrance/231719/information/
+* Tmall https://tianchi.aliyun.com/dataset/dataDetail?dataId=649
+* Yelp https://www.yelp.com/dataset/download
 
 ### Preprocess
 We compress the data set into a mat format file, which includes the following contents.
