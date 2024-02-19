@@ -1,8 +1,6 @@
 # DCMGNN
 This is for KDD'24-submission:
 > Dual-Channel Multiplex Graph Neural Networks for Recommendation
-> 
-> KDD'24
 
 
 ## Dependencies
