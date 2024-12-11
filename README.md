@@ -1,5 +1,5 @@
 # DCMGNN
-This is for KDD'24-submission:
+This is for TKDE-submission:
 > Dual-Channel Multiplex Graph Neural Networks for Recommendation
 
 ## Dependencies
